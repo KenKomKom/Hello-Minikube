@@ -1,4 +1,4 @@
-![image](https://github.com/KenKomKom/Hello-Minikube/assets/119410845/a44c29d8-fcbf-4a4c-9404-ac8684e7d6a1)### Hello-Minikube
+### Hello-Minikube
 1. Compare the application logs before and after you exposed it as a Service.
 
    Ya, terdapat perbedaan karena setelah service di expose. Service dapat menerima request sehingga pada log akan tercatat request-request yang pernah terbuat, misal seperti berikut jika dilakukan refresh berkali-kali terhadap service hello-node.
